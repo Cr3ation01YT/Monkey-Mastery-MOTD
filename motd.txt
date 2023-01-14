@@ -1,1 +1,1 @@
-It's the release of a new start! Monkey Mastery! Version 0.3.2
+Bug Fixed. Kick Hammer is now unobtainable.
